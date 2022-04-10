@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "XP Colors",
+  "theme": {
+    "colors": {
+	  "toolbar": "rgb(0, 84, 227)",
+	  "tab_selected": "rgb(0, 84, 227)",
+	  "tab_background_text": "rgb(216, 228, 248)",
+      "frame": "rgb(0, 84, 227)",
+      "toolbar": "rgb(236, 233, 216)",
+      "tab_line": "rgb(255, 153, 51)",
+      "popup": "rgb(240, 240, 229)",
+	  "tab_text": "white",
+	  "toolbar_field": "white",
+	  "toolbar_text": "black",
+      "popup_text": "black",
+      "frame_inactive": "rgb(122, 150, 223)"
+    }
+  }
+}
